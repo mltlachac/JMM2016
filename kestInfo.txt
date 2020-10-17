@@ -1,0 +1,8 @@
+r is the distance 
+K(r) is the expected number of additional random points within distance r of random point x
+
+Kiso(r) is _ (ripley's isotropic correction)
+Ktrans(r) is _ (translation correction)
+Kbord(r) is irrelevant (border)
+Kpois(r) is theoretical poisson (poisson distribution)
+
